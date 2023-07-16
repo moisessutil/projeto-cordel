@@ -74,6 +74,9 @@ section > p {
     background-attachment: fixed;
 }
 
+.imagem > p {
+    text-shadow: 1px 1px 1px black;
+}
 
 #img01 {
     background-image: url("imagens/background001.jpg");
